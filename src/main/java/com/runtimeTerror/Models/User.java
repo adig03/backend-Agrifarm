@@ -1,4 +1,4 @@
-package com.runtimeTerror.Models;
+package com.runtimeTerror.models;
 
 import lombok.Data;
 import lombok.NonNull;
