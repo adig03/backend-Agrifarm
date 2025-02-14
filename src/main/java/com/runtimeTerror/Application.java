@@ -16,9 +16,12 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
+ 
 	@Bean
 	public PlatformTransactionManager add(MongoDatabaseFactory db){
 		return new MongoTransactionManager(db);
 	}
+
+
 
 }

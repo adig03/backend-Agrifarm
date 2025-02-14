@@ -75,10 +75,6 @@
 			<version>4.4.2</version> <!-- Use the latest version -->
 		</dependency>
 
-
-
-
-
 	</dependencies>
 
 	<build>
