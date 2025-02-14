@@ -64,7 +64,7 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< Updated upstream
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-mongodb</artifactId>
@@ -74,10 +74,11 @@
 			<artifactId>spring-data-mongodb</artifactId>
 			<version>4.4.2</version> <!-- Use the latest version -->
 		</dependency>
-=======
 
 
->>>>>>> Stashed changes
+
+
+
 	</dependencies>
 
 	<build>
